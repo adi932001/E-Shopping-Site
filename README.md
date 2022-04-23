@@ -1,1 +1,1 @@
-#Shopping Cart App
+#Shopping Cart Application
